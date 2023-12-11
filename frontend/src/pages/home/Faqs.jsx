@@ -79,7 +79,6 @@ const Faqs = () => {
         <h1 className="accordion-heading">Frequently Asked Questions</h1>
 
         <div className="accordion">
-          {/* Accordion Item 1 */}
           <div className="accordion-item">
             <input type="checkbox" id="faq1" className="accordion-input" />
             <label htmlFor="faq1" className="accordion-label">
@@ -94,7 +93,6 @@ const Faqs = () => {
             </div>
           </div>
 
-          {/* Accordion Item 2 */}
           <div className="accordion-item">
             <input type="checkbox" id="faq2" className="accordion-input" />
             <label htmlFor="faq2" className="accordion-label">
@@ -109,7 +107,6 @@ const Faqs = () => {
             </div>
           </div>
 
-          {/* Accordion Item 3 */}
           <div className="accordion-item">
             <input type="checkbox" id="faq3" className="accordion-input" />
             <label htmlFor="faq3" className="accordion-label">

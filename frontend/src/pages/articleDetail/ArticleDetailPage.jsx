@@ -77,7 +77,6 @@ const ArticleDetailPage = () => {
               )}
             </div>
 
-            {/* caption  */}
             <div className="mt-4 prose prose-sm sm:prose-base">
               <p className="text-dark-hard font-roboto font-medium">
                 {data?.caption}
